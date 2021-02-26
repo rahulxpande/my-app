@@ -5,10 +5,8 @@ const IndexPage = () => (
   <div>
     <div className="Hero">
       <div className="HeroGroup">
-        <h1>Learn to <br/>
-        design and code React apps</h1>
-        <p>Complete courses about the best tools and design systems. Prototype and build apps with React and Swift.</p>
-        <Link to="/page-2/">Watch the video</Link>
+        <h1>Rahul Pande is a brand + experience designer based in India.</h1>
+        <p>Find his work in branding, web, and print below, and reach out with any new opportunities.</p>
       </div>
     </div>  
   </div>
